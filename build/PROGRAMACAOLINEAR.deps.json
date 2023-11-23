@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PROGRAMACAOLINEAR/1.0.0": {
+        "runtime": {
+          "PROGRAMACAOLINEAR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROGRAMACAOLINEAR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
